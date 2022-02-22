@@ -23,11 +23,12 @@ h3{
 }
 
 .foto_perfil{
-    display: block;
-    margin-left: 25px;
+    
+    border-radius: 10;
     margin-top: 10px;
-    border-radius: 50%;
-}    
+    
+    
+}
 
 .titulo_contato{
     color: #080808;
